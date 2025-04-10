@@ -47,12 +47,4 @@ This project simulates a real-world data consultancy engagement where I was task
 
 ---
 
-## 📁 Folder Structure (for repo usage)
 
-```bash
-.
-├── README.md
-├── dashboards/                # Screenshots or .pbix files from Power BI
-├── data/                      # Sample or anonymized datasets used
-├── presentation/              # Executive script or PowerPoint
-└── notes/                     # Research, client questions, and business logic
